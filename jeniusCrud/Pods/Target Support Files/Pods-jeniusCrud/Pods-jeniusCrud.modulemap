@@ -1,0 +1,6 @@
+framework module Pods_jeniusCrud {
+  umbrella header "Pods-jeniusCrud-umbrella.h"
+
+  export *
+  module * { export * }
+}
